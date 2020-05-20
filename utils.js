@@ -1,6 +1,5 @@
-export default{
-  test(){
+export default {
+  test() {
     console.log('isSub');
-    
-  }
-}
+  },
+};
